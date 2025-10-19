@@ -1,0 +1,10 @@
+neo4j>=5.14.0
+openai>=1.58.0
+groq>=0.9.0
+pinecone>=5.0.0
+sentence-transformers>=2.2.0
+pyvis==0.3.1
+networkx==3.1
+tqdm
+python-dotenv
+aiohttp>=3.10.0
